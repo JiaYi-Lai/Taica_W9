@@ -1,0 +1,26 @@
+[
+  {
+    "id": "modernism",
+    "name": "現代主義",
+    "englishName": "Modernism",
+    "description": "從幾何與秩序，尋找視覺溝通的共同語言。"
+  },
+  {
+    "id": "retro",
+    "name": "復古風格",
+    "englishName": "Retro",
+    "description": "沿著曲線與裝飾，重新閱讀時代的想像。"
+  },
+  {
+    "id": "digital-future",
+    "name": "數位與未來",
+    "englishName": "Digital & Future",
+    "description": "探索螢幕、科技與未來想像；本展區策展中。"
+  },
+  {
+    "id": "experimental",
+    "name": "實驗與表現",
+    "englishName": "Experimental",
+    "description": "跳脫既定規則，讓設計容納更多可能。"
+  }
+]

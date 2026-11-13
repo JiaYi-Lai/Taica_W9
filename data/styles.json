@@ -1,0 +1,198 @@
+[
+  {
+    "id": "bauhaus",
+    "name": "包浩斯",
+    "englishName": "Bauhaus",
+    "category": "modernism",
+    "period": "1919–1933",
+    "startYear": 1919,
+    "origin": "德國",
+    "summary": "以藝術、工藝與技術的整合，重新思考設計教育。",
+    "history": "1919 年成立的包浩斯學校，透過工作坊將藝術與工藝連結；其教學也隨時期與主持者轉變，不能只用幾何造型概括。",
+    "designConcept": "從材料實驗與實作出發，探索藝術與生活的關係。",
+    "visualFeatures": [
+      "幾何形體的組合",
+      "形狀與空間的對照",
+      "以實作理解材料"
+    ],
+    "colors": [
+      "紅、黃、藍與黑白是常見的教學示意配色，並非所有作品的固定規則。"
+    ],
+    "typography": "無襯線字與實驗排版可見於相關設計，但學校並非始終只有一種字體風格。",
+    "modernApplications": "品牌識別與編輯設計可借用幾何組合及清楚層級；這是本站提出的應用觀察。",
+    "representativeWorks": [
+      {
+        "title": "包浩斯工作坊與設計教育",
+        "creator": "包浩斯師生",
+        "year": "1919–1933",
+        "description": "來源文章介紹工作坊、師生與學校發展，可由此延伸觀看典藏作品。",
+        "source": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933"
+      }
+    ],
+    "image": "assets/images/bauhaus/cover.svg",
+    "imageAlt": "包浩斯視覺語彙原創示意，非歷史原作",
+    "imageCredit": "GDM. 原創 SVG 風格練習，非歷史原作；依 CC BY 4.0 分享。",
+    "tags": [
+      "幾何形體的組合",
+      "形狀與空間的對照",
+      "以實作理解材料"
+    ],
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — The Bauhaus, 1919–1933",
+        "url": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933"
+      }
+    ],
+    "relatedStyles": [
+      "art-deco",
+      "art-nouveau"
+    ]
+  },
+  {
+    "id": "art-deco",
+    "name": "裝飾藝術",
+    "englishName": "Art Deco",
+    "category": "retro",
+    "period": "1920–1930 年代",
+    "startYear": 1920,
+    "origin": "法國及跨國發展",
+    "summary": "幾何裝飾與現代生活的想像，在此交會。",
+    "history": "裝飾藝術在兩次世界大戰之間發展，吸收多種文化與藝術資源，既回應機械時代，也延續裝飾工藝的價值。",
+    "designConcept": "透過裝飾、材料與幾何秩序表達現代感；其作品涵蓋奢華工藝與較普及的產品。",
+    "visualFeatures": [
+      "階梯式與放射式構圖",
+      "對稱的幾何裝飾",
+      "俐落輪廓與重複線條"
+    ],
+    "colors": [
+      "黑金對比是常見的當代詮釋；歷史作品亦具有多樣色彩。"
+    ],
+    "typography": "幾何字形與裝飾性字體能呼應此風格，但不代表每件作品都使用相同字體。",
+    "modernApplications": "可用於展覽主視覺與包裝；應以結構與裝飾節奏建立關聯，而非僅套用黑金配色。",
+    "representativeWorks": [
+      {
+        "title": "裝飾藝術典藏選件",
+        "creator": "多位設計者",
+        "year": "1920–1930 年代",
+        "description": "由 V&A 介紹與典藏連結，觀察材料、裝飾及跨文化影響。",
+        "source": "https://www.vam.ac.uk/articles/an-introduction-to-art-deco"
+      }
+    ],
+    "image": "assets/images/art-deco/cover.svg",
+    "imageAlt": "裝飾藝術視覺語彙原創示意，非歷史原作",
+    "imageCredit": "GDM. 原創 SVG 風格練習，非歷史原作；依 CC BY 4.0 分享。",
+    "tags": [
+      "階梯式與放射式構圖",
+      "對稱的幾何裝飾",
+      "俐落輪廓與重複線條"
+    ],
+    "sources": [
+      {
+        "title": "V&A — An introduction to Art Deco",
+        "url": "https://www.vam.ac.uk/articles/an-introduction-to-art-deco"
+      }
+    ],
+    "relatedStyles": [
+      "bauhaus",
+      "art-nouveau"
+    ]
+  },
+  {
+    "id": "art-nouveau",
+    "name": "新藝術",
+    "englishName": "Art Nouveau",
+    "category": "retro",
+    "period": "約 1890–1910 年代",
+    "startYear": 1890,
+    "origin": "歐洲與美國等地",
+    "summary": "從植物曲線出發，讓裝飾成為整體構圖的一部分。",
+    "history": "新藝術在歐洲與美國發展，涵蓋建築、海報與裝飾藝術，各地有不同名稱與表現。它嘗試建立符合現代生活的新風格。",
+    "designConcept": "將藝術帶入日常物件，透過流動線條與整體設計連結形式與裝飾。",
+    "visualFeatures": [
+      "植物與有機形態",
+      "流動而延伸的曲線",
+      "圖像與裝飾邊框整合"
+    ],
+    "colors": [
+      "常見受自然啟發的色彩；不同媒材與地域的配色差異很大。"
+    ],
+    "typography": "裝飾字體常與畫面曲線呼應，文字可成為構圖的一部分。",
+    "modernApplications": "可將有機線條運用在書封與文化活動視覺；使用時仍需確保文字易讀。",
+    "representativeWorks": [
+      {
+        "title": "新藝術跨國風格案例",
+        "creator": "多位藝術家與工藝家",
+        "year": "約十九世紀末至二十世紀初",
+        "description": "來源介紹不同地域的新藝術，可比較圖形與工藝表現。",
+        "source": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style"
+      }
+    ],
+    "image": "assets/images/art-nouveau/cover.svg",
+    "imageAlt": "新藝術視覺語彙原創示意，非歷史原作",
+    "imageCredit": "GDM. 原創 SVG 風格練習，非歷史原作；依 CC BY 4.0 分享。",
+    "tags": [
+      "植物與有機形態",
+      "流動而延伸的曲線",
+      "圖像與裝飾邊框整合"
+    ],
+    "sources": [
+      {
+        "title": "V&A — Art Nouveau: an international style",
+        "url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style"
+      }
+    ],
+    "relatedStyles": [
+      "bauhaus",
+      "art-deco"
+    ]
+  },
+  {
+    "id": "memphis",
+    "name": "孟菲斯",
+    "englishName": "Memphis",
+    "category": "experimental",
+    "period": "1981 年起",
+    "startYear": 1981,
+    "origin": "義大利米蘭",
+    "summary": "用鮮明圖案與反常的組合，挑戰設計的慣例。",
+    "history": "孟菲斯團體於 1981 年推出首批作品，在後現代設計脈絡中，以家具與物件挑戰當時的品味。它也影響圖案與視覺文化。",
+    "designConcept": "藉由色彩、材料與形狀的自由混合，重新討論功能、裝飾與品味。",
+    "visualFeatures": [
+      "幾何形狀的衝突與堆疊",
+      "鮮明且不尋常的配色",
+      "波浪、點狀等圖案"
+    ],
+    "colors": [
+      "明亮色彩與黑白圖案並置；組合的張力比固定色票更重要。"
+    ],
+    "typography": "平面延伸可使用強烈字級對比與自由配置；這是應用建議，並非團體統一字體規範。",
+    "modernApplications": "圖案系統與活動視覺可借用其組合方式；不宜將所有鮮豔幾何圖案都稱為孟菲斯。",
+    "representativeWorks": [
+      {
+        "title": "孟菲斯首批設計系列",
+        "creator": "孟菲斯團體",
+        "year": "1981",
+        "description": "來源介紹團體與首批設計，以及其後現代語境。",
+        "source": "https://designmuseum.org/memphis"
+      }
+    ],
+    "image": "assets/images/memphis/cover.svg",
+    "imageAlt": "孟菲斯視覺語彙原創示意，非歷史原作",
+    "imageCredit": "GDM. 原創 SVG 風格練習，非歷史原作；依 CC BY 4.0 分享。",
+    "tags": [
+      "幾何形狀的衝突與堆疊",
+      "鮮明且不尋常的配色",
+      "波浪、點狀等圖案"
+    ],
+    "sources": [
+      {
+        "title": "Design Museum — Memphis",
+        "url": "https://designmuseum.org/memphis"
+      }
+    ],
+    "relatedStyles": [
+      "bauhaus",
+      "art-deco"
+    ]
+  }
+]
